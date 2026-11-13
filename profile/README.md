@@ -1,6 +1,6 @@
 ## Welcome to NexusHCI
 
-**Bridging the communication gap, one sign at a time.**
+**Bridging the communication gap, one initiative at a time.**
 
 NexusHCI is an open-source engineering collective focused on building intuitive Human-Computer Interaction (HCI) systems, real-time computer vision pipelines, and accessible assistive technologies.
 
